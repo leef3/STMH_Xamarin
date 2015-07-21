@@ -1,0 +1,12 @@
+STMH.ItemListAdapter, STMH;md527aff83b250a3754c6f8deb6275d93ee.ItemListAdapter
+STMH.ItemListAdapter, STMH, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md527aff83b250a3754c6f8deb6275d93ee.ItemListAdapter
+STMH.ItemListAdapter;md527aff83b250a3754c6f8deb6275d93ee.ItemListAdapter
+stmh.ItemListAdapter;md527aff83b250a3754c6f8deb6275d93ee.ItemListAdapter
+STMH.ItemListAdapter/ViewHolder, STMH;md527aff83b250a3754c6f8deb6275d93ee.ItemListAdapter_ViewHolder
+STMH.ItemListAdapter/ViewHolder, STMH, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md527aff83b250a3754c6f8deb6275d93ee.ItemListAdapter_ViewHolder
+STMH.ItemListAdapter.ViewHolder;md527aff83b250a3754c6f8deb6275d93ee.ItemListAdapter_ViewHolder
+stmh.ItemListAdapter_ViewHolder;md527aff83b250a3754c6f8deb6275d93ee.ItemListAdapter_ViewHolder
+STMH.MainActivity, STMH;md527aff83b250a3754c6f8deb6275d93ee.MainActivity
+STMH.MainActivity, STMH, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md527aff83b250a3754c6f8deb6275d93ee.MainActivity
+STMH.MainActivity;md527aff83b250a3754c6f8deb6275d93ee.MainActivity
+stmh.MainActivity;md527aff83b250a3754c6f8deb6275d93ee.MainActivity

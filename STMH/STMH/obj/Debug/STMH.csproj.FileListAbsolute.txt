@@ -1,0 +1,15 @@
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\bin\Debug\STMH.dll
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\bin\Debug\STMH.pdb
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\bin\Debug\STMH.dll.mdb
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\bin\Debug\STMH.STMH.apk
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\bin\Debug\STMH.STMH-Signed.apk
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\obj\Debug\STMH.dll
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\obj\Debug\STMH.pdb
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\obj\Debug\android\bin\STMH.STMH.apk
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\obj\Debug\res\layout\list_item.xml
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\obj\Debug\res\layout\main.xml
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\obj\Debug\res\values\strings.xml
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\obj\Debug\res\drawable\icon.png
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\obj\Debug\R.cs.flag
+c:\users\frederick.lee\documents\visual studio 2013\Projects\STMH\STMH\obj\Debug\uploadflags.txt
+C:\Users\frederick.lee\Documents\Visual Studio 2013\Projects\STMH\STMH\obj\Debug\STMH.csprojResolveAssemblyReference.cache
